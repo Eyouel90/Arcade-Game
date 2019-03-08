@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-- [Introduction] (#Introduction)
-- [Game Rules](#Game Rules)
-- [How to Play] (#How To Play)
+- [Introduction] #Introduction)
+- [Game Rules](#GameRules)
+- [How to Play] (#HowToPlay)
 - [Contributing](#contributing)
 
 ## Introduction
