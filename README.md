@@ -5,7 +5,7 @@
 - [Introduction](#Introduction)
 - [Game Rules](#GameRules)
 - [How to Play](#HowToPlay)
-- [Contributing](#contributing)
+- [Credits](#Credits)
 
 ## Introduction
 
@@ -21,6 +21,8 @@ Simple rule, reach the water at the top of the canvas by avoiding your enemy. Yo
 Move your player by using your arrow keys on your keyboard
 
 
-## Contributing
+## Credits
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Template images and canvas by: www.udacity.com
+JS References and Inspirations: www.developer.mozilla.org
+                                www.stackoverflow.com
