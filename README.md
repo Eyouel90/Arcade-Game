@@ -18,7 +18,7 @@ Simple rule, reach the water at the top of the canvas by avoiding your enemy. Yo
 
 ## How To Play
 
-Move your player by using your arrow keys on your keyboard
+Move your player by using your arrow keys on your keyboard.
 
 
 ## Credits
