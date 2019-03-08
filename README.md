@@ -2,18 +2,24 @@
 
 ## Table of Contents
 
-- [Instructions](#instructions)
+- [Introduction] (#Introduction)
+- [Game Rules](#Game Rules)
+- [How to Play] (#How To Play)
 - [Contributing](#contributing)
 
-## Instructions
+## Introduction
 
-Use this [rubric](https://review.udacity.com/#!/rubrics/15/view) for self-checking your submission.
+This is a simple arcade build with Javascript functionality, with a littles touch of Css.
 
-Make sure the functions you write are **object-oriented** - either class functions (like `Player` and `Enemy`) or class prototype functions such as `Enemy.prototype.checkCollisions`. Also make sure that the keyword `this` is used appropriately within your class and class prototype functions to refer to the object the function is called upon.
 
-Your **README.md** file should be updated with instructions on both how to 1. Run and 2. Play your arcade game.
+## Game Rules
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Simple rule, reach the water at the top of the canvas by avoiding your enemy. Your position will be reset to the start if you touch any of the bugs or enemy. 
+
+## How To Play
+
+Move your player by using your arrow keys on your keyboard
+
 
 ## Contributing
 
