@@ -4,6 +4,7 @@
 
 - [Introduction](#Introduction)
 - [Game Rules](#GameRules)
+  [Setup](#Setup)
 - [How to Play](#HowToPlay)
 - [Credits](#Credits)
 
@@ -16,6 +17,12 @@ This is a simple arcade build with Javascript functionality, with a littles touc
 
 Simple rule, reach the water at the top of the canvas by avoiding your enemy. Your position will be reset to the start if you touch any of the bugs or enemy. 
 
+## Setup
+To run the game
+  1. Download the respository to your locak disk
+  2. Open you index.html with your preferred web browser.
+  3. ENJOY!!
+  
 ## How To Play
 
 Move your player by using your arrow keys on your keyboard.
