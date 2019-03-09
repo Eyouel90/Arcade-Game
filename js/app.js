@@ -125,12 +125,4 @@ document.addEventListener('keyup', function(e) {
 });
 
 
-/* Day one: I was able to define the player and use the defined*/
-/* Day two: enemy.y and hero.y is not matching. so I can work on the collsuion and add effect.*/
-/* Day three: only left with stoping the animation request when the player winds and reseting. ERROR: Id is not defined under engine.js. And also left with any addtional
-bonus functionality I would like to add.*/
-/* Day Four: Game is running smooth. Just styling the and final touches are left. Also, will need to wirte the documentation. */
 
-        // create a welcome modal which allows players to choose their character. 
-        //during collusion there should be somekind of transition or animation.
-        //understand the concepot of prototype and class. ....
