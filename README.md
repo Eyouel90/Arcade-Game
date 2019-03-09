@@ -19,7 +19,7 @@ Simple rule, reach the water at the top of the canvas by avoiding your enemy. Yo
 
 ## Setup
 To run the game
-  1. Download the respository to your locak disk
+  1. Download the respository to your local disk
   2. Open you index.html with your preferred web browser.
   3. ENJOY!!
   
